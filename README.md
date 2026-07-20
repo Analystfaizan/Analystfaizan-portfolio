@@ -37,6 +37,15 @@ Seeking an **entry-level Data Analyst position** to apply strong analytical reas
 
 ## 🚀 Featured Case Studies
 
+### 🏦 [Supply Chain Tracker](https://github.com/Analystfaizan/Supply-Chain-Tracker-)
+`Power BI` `DAX` `Power Query` `Star Schema`
+
+ A **4-page interactive Power BI report** tracking end-to-end supply chain performance — from manufacturing and inventory through to logistics and shipping — giving operations stakeholders a single, real-time view of revenue, stock health, quality, and shipping costs.
+
+**Key result:** Total Revenue Generated	578K with Total Units Sold 46K and Stock Availability in percentage as 9.50% with Defect Rate in percentage as 2.29%.
+
+---
+
 ### 🏦 [Bank Loan Performance Dashboard](https://github.com/Analystfaizan/Bank-Loan-Performance)
 `Power BI` `DAX` `Power Query` `Star Schema`
 
