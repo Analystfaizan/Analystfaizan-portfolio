@@ -482,6 +482,11 @@ header {
     border-color: rgba(139, 92, 246, 0.35);
 }
 
+.tag-pink {
+    color: #B759AB;
+    border-color: #c58dbe;
+}
+
 .tag-green {
     color: #86efac;
     border-color: rgba(34, 197, 94, 0.35);
