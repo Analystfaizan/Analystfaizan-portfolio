@@ -37,7 +37,7 @@ Seeking an **entry-level Data Analyst position** to apply strong analytical reas
 
 ## 🚀 Featured Case Studies
 
-### 🏦 [Supply Chain Tracker](https://github.com/Analystfaizan/Supply-Chain-Tracker-)
+### 🚂 [Supply Chain Tracker](https://github.com/Analystfaizan/Supply-Chain-Tracker-)
 `Power BI` `DAX` `Power Query` `Star Schema`
 
  A **4-page interactive Power BI report** tracking end-to-end supply chain performance — from manufacturing and inventory through to logistics and shipping — giving operations stakeholders a single, real-time view of revenue, stock health, quality, and shipping costs.
